@@ -10,4 +10,4 @@ Data Source: [https://data.worldbank.org/indicator/SP.POP.TOTL](https://data.wor
 
 ### Readings
 
-[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce](Array.reduce())
+[Array.reduce()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
