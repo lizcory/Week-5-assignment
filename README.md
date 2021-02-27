@@ -7,3 +7,7 @@
 - the lines should be animated: you must use a data point for transition duration of each line
 
 Data Source: [https://data.worldbank.org/indicator/SP.POP.TOTL](https://data.worldbank.org/indicator/SP.POP.TOTL)
+
+### Readings
+
+[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce](Array.reduce())
