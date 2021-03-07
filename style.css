@@ -13,3 +13,8 @@ svg {
     background: #eee;
     margin: 30px 10%;
 }
+
+.line {
+    fill: none;
+    stroke: #ed3700;
+}
