@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 html, body {
     padding: 0px;
     margin: 0px;
-    font-family: sans-serif;
+    margin-top: 10px;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.1em;
+    background: #eee;
 }
 
 .container {
@@ -12,9 +17,4 @@ html, body {
 svg {
     background: #eee;
     margin: 30px 10%;
-}
-
-.line {
-    fill: none;
-    stroke: #ed3700;
 }

@@ -29,7 +29,8 @@ popdata <- read.csv(here("data","population.csv"))
 popdata_clean <- popdata %>% 
   clean_names(case = "snake") %>% 
   pivot_longer(cols = starts_with("x"), names_to = "year", values_to = "population") %>% 
-  mutate(year = as.character(str_remove(year, "x")))
+  mutate(year = as.character(str_remove(year, "x"))) %>% 
+  na.omit()
 
 ```
 
